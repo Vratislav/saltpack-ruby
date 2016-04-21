@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'saltpack'
+
+puts 'Saltpack RB is going to dispense some salt!'
