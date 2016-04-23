@@ -1,8 +1,4 @@
-require "saltpack/version"
-
-module Saltpack
-
+require 'saltpack/version'
+require 'saltpack/armor'
 
 
-
-end
